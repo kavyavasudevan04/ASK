@@ -91,7 +91,8 @@ plt.show()
 
 ![Experiment 5](https://github.com/user-attachments/assets/550e9365-c347-4560-8a6d-16b7e99976cc)
 # Graph:
-![WhatsApp Image 2025-04-16 at 13 31 09_c2d338bc](https://github.com/user-attachments/assets/558be584-7fcf-4a3d-b9eb-25dde4899c62)
+![WhatsApp Image 2025-04-23 at 13 28 51_3d8713fe](https://github.com/user-attachments/assets/8bb9ef35-c94d-4921-97c1-fc38c2026e7c)
+
 
 
 
